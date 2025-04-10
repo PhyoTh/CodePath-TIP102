@@ -60,21 +60,7 @@ def print_linked_list(head):
 
 '''
 two pointer
+which ever one hit the null first, then end it -> link it with the other one
 '''
 def merge_orders(sandwich_a, sandwich_b):
-
-    yo supxD
-    lmao
-    what twas the othe guys name i cant find it
-    wait let me find it
-    here:
-    https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAABvPXP4B2F_NU33V6-dZEDYr2btem4e6goo&keywords=Sneheil%20Saxena&origin=ENTITY_SEARCH_HOME_HISTORY&sid=RCu
-    did u get it?
-    yea i added both of okayu guysokayoay
-
-    ima try to make the group
-    yeh fs like for the codepath weekly sessions? idk how to sign that up. just message me on linkedin later i need to go home now!
-    u make the group and basically sign up for it every time u do breakout room sheet itll be at the bottom in preferences
-
-    
-    
+    pass
